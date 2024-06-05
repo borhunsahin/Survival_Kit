@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 01ed0d785da7ced439276aed3fa3c558
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - itemPrefab: {instanceID: 0}
+  - image: {instanceID: 0}
+  - stone: {fileID: 6610386168974974944, guid: b8fb6861765ae304d9bc8669300dfaa4, type: 3}
+  - stick: {fileID: 1083707576196001122, guid: 9ca32c22b12b14e4bb2710de4da73673, type: 3}
+  - wood: {fileID: 9043197024410766638, guid: 77629eba9f8e1044ea1f5257e45a755d, type: 3}
+  - timber: {fileID: 5621963871908341518, guid: 8b637abb28746f4419abf1459ce91885,
+      type: 3}
+  - beam: {fileID: 6610386168974974944, guid: b8fb6861765ae304d9bc8669300dfaa4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
