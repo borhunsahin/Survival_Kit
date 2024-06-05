@@ -33,6 +33,7 @@
  * 
  * *********** Eklenecekler ***********
  * 
+ * Meşale ve ateş efekti eksik
  * Ana menü ve pause menü
  * Yeni craft nesneleri
  * İnşa sistemi (Basit Barınak,Yaprak ve otların eklenmesi) (Sonrasında Soket sistemi)
