@@ -11,7 +11,7 @@ PrefabInstance:
     - target: {fileID: -9122406966214671854, guid: 97bc396016c5b7946b387d6f0e883c8a,
         type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 16
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 97bc396016c5b7946b387d6f0e883c8a,
         type: 3}
@@ -66,7 +66,7 @@ PrefabInstance:
     - target: {fileID: -4449505962073736684, guid: 97bc396016c5b7946b387d6f0e883c8a,
         type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 16
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: -2048285535002599295, guid: 97bc396016c5b7946b387d6f0e883c8a,
         type: 3}
@@ -126,17 +126,17 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 97bc396016c5b7946b387d6f0e883c8a,
         type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 16
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2814642715460820812, guid: 97bc396016c5b7946b387d6f0e883c8a,
         type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 16
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4513195150598450425, guid: 97bc396016c5b7946b387d6f0e883c8a,
         type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 16
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4783838456839962052, guid: 97bc396016c5b7946b387d6f0e883c8a,
         type: 3}
@@ -236,7 +236,7 @@ LODGroup:
   m_GameObject: {fileID: 8813445921083083095}
   serializedVersion: 2
   m_LocalReferencePoint: {x: 0, y: 0, z: 0}
-  m_Size: 1
+  m_Size: 3
   m_FadeMode: 0
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0

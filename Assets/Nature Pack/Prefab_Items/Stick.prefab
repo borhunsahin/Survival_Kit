@@ -58,10 +58,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7017303518338201602, guid: 27be6f0255c6a4544bb43179635c4eea,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 895181598209071578, guid: 27be6f0255c6a4544bb43179635c4eea,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 27be6f0255c6a4544bb43179635c4eea,
         type: 3}
       propertyPath: m_Name
       value: Stick
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 27be6f0255c6a4544bb43179635c4eea,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5560704114560437494, guid: 27be6f0255c6a4544bb43179635c4eea,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7128722774448649241, guid: 27be6f0255c6a4544bb43179635c4eea,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -109,7 +134,7 @@ LODGroup:
   m_GameObject: {fileID: 1083707576196001122}
   serializedVersion: 2
   m_LocalReferencePoint: {x: 0, y: 0, z: 0}
-  m_Size: 1
+  m_Size: 3
   m_FadeMode: 0
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0

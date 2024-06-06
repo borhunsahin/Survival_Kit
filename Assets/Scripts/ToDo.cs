@@ -30,9 +30,11 @@
  * Bazı objeler plane den geçerek aşağıya düşüyor, stickler envanterden atıldıktan sonra planenin içinden geçiyor. +
  * Tab Menüdeyken camera hareketini durdurulması gerekir. +
  * Kamera plane nin ve suyun içine girmemesi gerekir.
+ * Fallen_Dead_Tree_Stumpın pivot noktası aşağı alınmalı.
  * 
  * *********** Eklenecekler ***********
  * 
+ * Dere ve göl için shader eklenmesi (oyuncu y ekseninde belli bir seviyenin altına inemez ve yüzme animasyonu devreye girer)
  * Meşale ve ateş efekti eksik
  * Ana menü ve pause menü
  * Yeni craft nesneleri
@@ -44,7 +46,6 @@
  * Balıkçılık
  * Tarım
  * Gece gündüz döngüsü ve değişken hava durumu eklenmesi
- * Dere ve göl için shader eklenmesi (oyuncu y ekseninde belli bir seviyenin altına inemez ve yüzme animasyonu devreye girer)
  * 
  * *********** Oyuna Item Ekleme ***********
  * 
