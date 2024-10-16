@@ -1,2 +1,2 @@
-# Survival_Kit
+a primative survival game prototype
  
